@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+HU:wght@100..400&display=swap');
+
+.title {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 255px;
+    height: 75px;
+    border: 5px solid rgb(47, 75, 92);
+    border-radius: 20px;
+    box-shadow: 7px 9px 0px 3px rgb(47, 75, 92);
+}
+
+h1 {
+    padding-left: 10px;
+    font-family: "Playwrite HU", cursive;
+    font-size: 36px;
+    color: rgb(111, 175, 214);
+    display: inline;
+}
